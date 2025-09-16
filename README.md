@@ -27,6 +27,7 @@ A simple Registration Form App built with React Native CLI to practice core comp
 		```bash
   		npx react-native run-android
 	- On iOS (Mac only):
+ 	  ⚠️ I don’t have a Mac, so I could not test iOS build. But the app can be run on iOS using the following command (on a Mac with Xcode installed):
 		```bash
  		npx react-native run-ios
 
@@ -47,4 +48,5 @@ A simple Registration Form App built with React Native CLI to practice core comp
 # 👨‍💻 Author
 - Md Arif Islam
 - Assignment for React Native Basics
+
 
